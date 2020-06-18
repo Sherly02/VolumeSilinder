@@ -1,0 +1,6 @@
+D:\A25 PRODAS XR2\Volume Silinder\Volume Silinder\bin\Debug\Volume Silinder.exe.config
+D:\A25 PRODAS XR2\Volume Silinder\Volume Silinder\bin\Debug\Volume Silinder.exe
+D:\A25 PRODAS XR2\Volume Silinder\Volume Silinder\bin\Debug\Volume Silinder.pdb
+D:\A25 PRODAS XR2\Volume Silinder\Volume Silinder\obj\Debug\Volume Silinder.csprojResolveAssemblyReference.cache
+D:\A25 PRODAS XR2\Volume Silinder\Volume Silinder\obj\Debug\Volume Silinder.exe
+D:\A25 PRODAS XR2\Volume Silinder\Volume Silinder\obj\Debug\Volume Silinder.pdb
